@@ -20,13 +20,47 @@ The next major element of the system is the relationship that may exist between 
 
 People tend to use words to denote the different ways in which they think about objects. In VAST, these words are called "names". To clearly distinguish concepts and their names from one another, VAST uses abstract labels (e.g., C, R) for the former and real language labels in quotation marks (e.g., "Cat", "Rocket") for the latter. The relationship between a concept and a word denoting that concept is called a "naming relationship". It is symbolized by an arrow pointing from the concept to the name, accompanied by the lower letter n. As with all relationship types (see above), the arrow stands for an IF-THEN relation: IF an object is an exemplar of the respective concept, THEN one may call this object by the respective name. Figure 1 displays some examples of naming relationships, including homonyms (the same name is used for different concepts) and synonyms (different names are used for the same concept). Note that both (a) the appropriateness and (b) the strengths of the relationships displayed in Figure 1 are treated as irrelevant for now. Distinguishing between concepts and their names is often necessary, because idiosyncratic word usage accounts for all sorts of problems (e.g., misunderstandings) in everyday arguments. The same issue is relevant for psychology, which continues to suffer from — often unacknowledged — jingle-fallacies (use of homonymic theoretical concepts) and jangle-fallacies (use of synonymic theoretical concepts) (Block, 1995).
 
+**Figure 1:**
+
+The caption says "Selected Naming Relationships".
+
+The figure describes the concepts "Homonym" and "Synonym".
+
+For Homonym, a box  in the center with the label "Bat" is connected with two boxes labeled "X" to the right and "Y" to the left, with arrows pointing towards "Bat". The "Y" box is also connected to a box with the text "Device used for hitting a ball in some games" above, with an upwards pointing arrow. The "X" box is connected to a box with the text "Small, nocturnal flying animal with leathery wings" above, with an upward poiting arrow. All arrows are labeled "n".
+
+For "Synonym", a box in the center with the label "Z" is connected on the left to a box labeled "Enraged" by a left-pointing arrow and on the right to a box labeled "Furious" by a right-pointing arrow.
+
 ### Relationship Type 2: Conceptual Implication (i)
 
 Conceptual implication is about the extent to which classifying objects as exemplars of one concept implies also categorizing the same objects as exemplars of another concept. Figure 2 displays an example. Here, when an object is considered to be a "sun", the same object is also somewhat likely to be considered "hot" and "bright". Conceptual implications are symbolized by arrows accompanied by the lowercase letter i. Figure 2 contains three different ways of displaying basically the same information. In the display on the left-hand side, all concepts and the relevant relationships between them are displayed as a part of one coherent whole. This is the default mode that we suggest for use with most VAST analyses, as it maximises parsimony while retaining all of the relevant information. In the middle display, the conceptual implications (type i) among the three concepts, and the naming relationships (n) have been separated from one another. This way of displaying things may sometimes be helpful to avoid clutter. However, this approach comes at the price of somewhat lower parsimony because every concept now has to be displayed twice. In the display on the righthand side, we use concept labels that directly reference the concepts' names. This is what we call the "Finger-isMoon-Mode" (FIMM), as it abolishes the explicit distinction between signifier and referent. This constitutes another possible way of reducing clutter, but comes at the significant risk of overlooking the importance of semantics, especially (partial) homonymity, synonomity, and antonymity. For example, another display using FIMM could show that the concept Star has the same conceptual implications (Hot, Bright) as the concept Sun. Here, the use of FIMM might obscure the fact that this is the case simply because "Sun" and "Star" are two different words for the exact same type of thing (S). To highlight the risk of semantic ambiguities like this one, we recommend explicating when the FIMM is being used, by adding the respective acronym in one corner of the display (see Figure 2). Also, many concept names are too long to be used as concept labels. In these cases, we recommend the approach exemplified in the middle of Figure 2. As a next step, we will introduce four more types of relationships between concepts that frequently feature in argument structures. Figure 3 displays the ways in which they are distinguished from one another (in terms of lowercase letters accompanying the respective arrows), along with a very simple example for each type. Note that, for simplicity, this figure uses FIMM, as signalled by the acronym in the upper right-hand corner.
 
+**Figure 2:**
+
+The caption says "Conceptual implications among three concepts. Left: full (default) mode in which concepts and names are connected within the same structure. Middle: full (default) mode with concepts separated from their names. Right: Finger-is-Moon-Mode (FIMM) in which concept labels reference the concepts’ names. The dashed lines symbolise that these are alternative ways of displaying the same set of concepts, names, and relationships, not three parts of the same VAST display".
+
+The figure is split horizontally into 3 sections.
+
+The Left section shows a single graph with a box labeles "S" in the center. An upwards pointing arrow with the label "N" connects "S" to a box labeled "Sun". An down-left pointing arrow with the label "i" connects "S" to a box labeled "H" and a downwards poiting arrow albeled "n" connects "H" to a box with the label "Hot". A right-dow poitnting arrow with the label "i" connects "S" to a box labeled "B" and a downwards poiting arrow albeled "n" connects "B" to a box with the label "Bright".
+
+The middle section shows three separate graphs at the top and one at the bottom. The first from the top connects a box labeled "S" with a box labeled "Sun" by a rightwards poitning arrow. The second from the top connects a box labeled "B" with a box labeled "Bright" by a rightwards poitning arrow. The third from the top connects a box labeled "H" with a box labeled "Hot" by a rightwards poitning arrow.
+
+The bottom graph connects a box labeleled "S" to a box labeled "H" by a down-left poiting arrow and to a box labeled "B" by a down-right poiting arrow. The left section is labeled "FIMM" and shows a graph that connects a box labeled "Sun" to a box labeled "hot" by down-left pointing arrow with the label "i" and to a box labeled "Bright" by down-right poiting arrow with the label "i".
+.
 ### Relationship Type 3: Causation (c)
 
 Many important articles and books have been written about causation (Eronen & Bringmann, 2021; Pearl, 1995; Pearl & Mackenzie, 2018; Rohrer, 2018). In VAST, we use a concept of causation that is also reflected in how most experimentalists tend to think about their research designs. This concept involves temporal order as a necessary ingredient: Causes always precede effects, but never the other way round. Also, causation would become evident if we were able to manipulate the suspected cause variable and then observe subsequent changes in another variable. Note that all of this concerns the ways in which we (and most people, presumably) think about causation, irrespective of whether such a suspected causal link may ever be proven or disproved in terms of data. Note also that most causal relationships between concepts could be — but do not have to be — decomposed into a number of intervening steps. For example, the causal relationship in Figure 3 reflects a relatively proximal link between cause (Smoking) and effect (Lung Cancer). It could be amended by inserting Tar Accumulation as a mediator that is caused by Smoking and that causes Lung Cancer.
+
+**Figure 3:**
+
+The caption says "Four more types of relationships between concepts (c = causation, t = transformation, p = prediction, r = reasoning)". The figure contains 4 graphs arranged vertically.
+
+The first from the top shows a box labeled "Smoking" connected by a rightwards pointing arrow labeled "c" to a box with the label "Lung Cancer".
+
+The second graph shows a box labeled "Temperature in Celsius" connected by a rightwards pointing arrow labeled "t" to a box labeled "Temperature in Fahrenheit".
+
+The third graph shows a box labeled "Height" connected by a rightwards pointing arrow labeled "p" to a box with the label "Number of Y Chromosomes".
+
+The fourth graph shows a box labeled "X + 4 = 8" connected by a rightwards pointing arrow labeled "r" to a box with the label "X = 4".
 
 ### Relationship Type 4: Transformation (t)
 
@@ -44,23 +78,111 @@ This relationship type is about the conclusions that people draw from certain pr
 
 In the present paper, we only address those types of relationships between concepts that we think feature prominently in many arguments — everyday ones as well as scientific ones. Needless to say, the selection is and has to be somewhat subjective. It is relatively easy to come up with examples of other relationship types that may be useful to employ under certain circumstances (e.g., metamorphosis (m): when X turns into Y over time; association (a): when thinking of X makes it likely to also think of Y; element of (e): when X is among the ingredients that, together, constitute Y etc.). We assume that the principles laid out in the following (e.g., regarding relationship strength and the construction of higher-order concepts) will still apply in these instances. In cases where a relationship between concepts is assumed to exist but the exact nature of that relationship is (yet) unknown, we recommend using the letter u.
 
+**Figure 4:**
+
+The caption says "Relationship strengths and relationship patterns".
+
+The figure contains a numbered list of 10 individual grpahs arranged in two columns.
+
+Graph 1 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c "weak"' to a box labeled "Y".
+
+Graph 2 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c "0.5"' to a box labeled "Y".
+
+Graph 3 shows a box labeled "X" connected by a rightwards pointing arrow labeled "c *" to a box labeled "Y", with an extra label under it that says "* Y = 2 sin(X) + 750 X".
+
+Graph 4 shows a box labeled "X" connected by a rightwards poitning arrow to a diamond shape labeled "OR", another box labeled "Z" connects to "OR" via an upward arrow from below. A rightward arrow connects "OR" to a box labeled "Y".
+
+Graph 5 shows a box labeled "X" connected by a rightwards poitning arrow to a diamond shape labeled "*", another box labeled "Z" connects to "*" via an upward arrow from below. A rightward arrow connects "OR" to a box labeled "Y", and an extra label below that says "* Y = 2.45X + Z".
+
+Graph 6 shows a box labeled "X" connected by a downward arrow to a diamond shape labeled "AND". Another box labeled "Y" connects to "AND" from below with an upward poiting arrow. A rightward pointing arrow connects "AND" to a box labeled "Z". "X" is also connected to "Z" by an arrow labeled "C1" that starts poiting right and then makes a turn down. "Y" is also connected to "Z" by an arrow labeled "C2" that starts poiting right and then makes a turn up.
+
+Graph 7 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c" coming from the right, pointing at "Y".
+
+Graph 8 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c <> 0" coming from the right, pointing at "Y".
+
+Graph 9 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c 0" coming from the right, pointing at "Y".
+
+Graph 10 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c ?" coming from the right, pointing at "Y".
+
 ## Relationship Strength
 
 In VAST, the default interpretation of an arrow that points from one concept (e.g., X) to another (e.g., Y) is that this relationship is considered relevant and positive (i.e., the more X the more Y). Thus, if an arrow is absent between X and Y, this means that the relationship is zero and/or that it is regarded unimportant for the present analysis. So far, we did not use any further specifications of relationship strength, and this approach may be perfectly sufficient in many cases. Sometimes, however, such specifications will be deemed useful or even necessary. VAST allows for the use of verbal labels such as "weak", "strong", "negative" etc. for this purpose. This approach will often be appropriate when trying to visualise the structure of an existing argument that has been made using the natural language. It may also be the most useful approach when a numerical specification seems not possible (yet). Case 1 in Figure 4 displays an example. Note that we rather arbitrarily added the letter c (causation) to all the arrows in Figure 4. This may easily be replaced with any other relationship type, as everything we say here about relationship strength applies equally to all types. If a simple numerical quantification of relationship strength is wanted, we propose using normalized coefficients ranging from -1 to 1. "Normalized" means that these coefficients ignore the particular scales of the concepts that they connect, but rather quantify relationship strength in terms of proportions of these features' ranges. Note that this is only possible if such a range may reasonably be assumed to exist. Based on our own experience, this seems to be the case with most psychological concepts, however.\
 The default coefficient of relationship strength that we propose reflects the increase in Y (expressed as a percentage of the available range of that feature) that is associated with a "perfect" or "complete" increase in X (i.e, an increase that covers the whole available range of X, from the smallest conceivable value to the highest conceivable value). Case 2 in Figure 4 presents an example in which the coefficient is 0.5. This type of coefficient may be applied to relationships between dichotomous concepts as well as to relationships between continuous concepts. In the former (dichotomous) case, it may be interpreted as the percentage of cases in which a complete change in X (from 0 to 1) is accompanied by a change in Y (from 0 to 1). In the latter (continuous) case, the coefficient reflects the average increase on the continuous Y scale that accompanies the largest possible increase (from 0 to 1) on the continuous X scale (again both expressed in terms of percentages of the respective ranges). Figure 5 contains a number of examples showcasing this broad applicability. Negative coefficients are to be interpreted accordingly: the more X is the case, the less Y is the case. This default coefficient of relationship strength is generic enough to be applied to all types of relationships between concepts (e.g., Type p: "wearing glasses" makes it 70 percent likely for a person to also be "smart"; Type r: It is 90 percent reasonable to assume someone "is in love with you" when that person "giggles a lot while talking to you"; Type c: being "obese" makes it 50 percent likely for someone to develop "Diabetes Type II" as a consequence). For non-dichotomous concepts (see the lower three panels of Figure 5), the default coefficient of relationship strength is largely agnostic regarding the distributions of concepts' values: For example, the relationships displayed in the middle panel and in the panel to the right have the same strength coefficient (0.5) but in the latter case the relationship is deterministic whereas in the former case it is noisier. This difference may also be accounted for in VAST, as we will discuss in the next section ("Noise"). VAST's default coefficient of relationship strength is based on percentages of the ranges of the concepts that the relationship connects. Sometimes, however, there may be good reasons to deviate from the default (e.g., when earthquake magnitude on the unbounded Richter scale is part of an argument). In such cases, using other measures of relationship strength (e.g., an exact function translating X into Y) is possible. As the exact function connecting certain concepts will often be too long to be written above an arrow in its entirety, we suggest placing it somewhere else in the display and referencing it using an asterisk (e.g., Case 3 in Figure 4). Diamonds should be used when several concepts are jointly related to another concept. This includes logical connectives such as AND, OR and XOR (exclusive OR), as shown in Case 4 in Figure 4. When a more specific formula is needed to derive a joint output from several inputs (e.g., a scoring procedure), the diamond and asterisk elements may be combined, as shown in Case 5. A diamond with AND inside it may also be used to symbolise the interaction effect that two concepts (X and Y) have on a third concept (Z). Case 6 in Figure 4 displays this possibility along with the two main effects of X and Y on Z, so this is basically a VAST-type depiction of twofactor ANOVA. We also use Case 6 to showcase the possibility of indexing coefficients (c1, c2, c3). Doing so is often useful to facilitate discussions among analysts.
 
+**Figure 5:**
+
+The caption says: "Relationship strength quantified in terms of default coefficients ranging from -1 to 1. Upper two examples: relationshipsbetween two dichotomous concepts. Lower three examples: relationships between two ordinal or metric concepts"
+
+The figure shows 5 plots arranged in a 3x2 grid. The horizontal axis is always labeled "Min(X)" to  "Max(X)" and the vertical axis is always labeled "Min(Y)" to "Max(Y)".
+
+The top left plot contains two data points, one near the origin and one in the top right corner, both connected with a dashed line. The plot is labeled "Coeff = 1.0".
+
+The top middle plot contains three data points, one large one near the origin and two smaller ones in the top andf bottom right. a dashed lines goes from the large point to the middle between the two smaller ones. The plot is labeled "Coeff = 0.5".
+
+The bottom left plot contains 5 data points all on a straight dashed line going from near the origin to the top right. The plot is labeled "Coeff = 1.0".
+
+The bottom middle plot contains 5 data point scattered around a straight dashed line going from near the origin to the top right. The plot is labeled "Coeff = 0.5".
+
+The bottom middle plot contains 5 data point along a straight dashed line going from near the origin to the middle right. The plot is labeled "Coeff = 0.5".
+
 ## Noise
 
 Sometimes, we may not only wish to display the relationship between specific concepts, but acknowledge that there are additional unspecified influences ("noise") on these concepts, as well. To symbolise these influences, we recommend using "noise arrows" similar to the ones that are used in Structural Equation Modelling (SEM). A noise arrow always points toward a given concept (i.e., the one that is affected by the noise) but does not originate in a specific concept. Cases 7, 8, 9 and 10 in Figure 4 provide examples. Note that, other than in Structural Equation Modelling, noise arrows in VAST do not stand for the residuals that remain between observed Y values and the Y values that one predicts from X. Rather, they stand for other influences apart from X that may move the values of Y toward its maximum (default, positive coefficient), or toward its minimum (negative coefficient). Case 7 displays the default situation in which noise may lead to an increase in concept Y. If noise may move the values of a concept in either direction, this may be specified using "< > 0", as shown in Case 8. If it is important to specify that there is no noise, this may be expressed using a coefficient of zero, as shown in Case 9. This expresses the idea that the only factor whose values may make a difference with regard to the values of concept Y is concept X. Finally, when an influence may exist and be relevant for the analysis, but one is not really sure yet, we recommend using a question mark as "coefficient" (see Case 10 in Figure 4).
+
+**Figure 6:**
+
+The caption says "Relationship arrows connecting concepts both ways. Use of two arrows implies that the exact ways in which the concepts are related depend on direction. Use of a bidirectional arrow (as in the last case) implies that direction does not matter. The i 1 coefficient in the latter case reflects the assumption that concepts X and Y are identical"
+
+The figure shows 6 graphs stacked vertically.
+
+In the first graph, two boxes labeled "TIC" and "TIF" are horizontally arranged and connected to each other with two arrows: one pointing right labeled "t1" and one pointing left labeled "t2". "TIC" is connected to a box labeled "Temperature in Celsius" with a leftward pointing arrow labeled "n". "TIF" is connected to a box labeled "Tempearature in Fahrenheit" with a rightward pointing arrow labeled "n".
+
+In the second graph, two boxes labeled "BH" and "BW" are horizontally arranged and connected to each other with two arrows: one pointing right labeled "p1" and one pointing left labeled "p2". "BH" is connected to a box labeled "Body height" with a leftward pointing arrow labeled "n". "BW" is connected to a box labeled "Body weight" with a rightward pointing arrow labeled "n".
+
+In the third graph, two boxes labeled "GW" and "GM" are horizontally arranged and connected to each other with two arrows: one pointing right labeled "c1" and one pointing left labeled "c2". "GW" is connected to a box labeled "Global warming" with a leftward pointing arrow labeled "n". "GM" is connected to a box labeled "Glaciers melting" with a rightward pointing arrow labeled "n".
+
+In the fourth graph, two boxes labeled "PNA" and "PG" are horizontally arranged and connected to each other with two arrows: one pointing right labeled "r1" and one pointing left labeled "r2". "PNA" is connected to a box labeled "Peter has no alibi" with a leftward pointing arrow labeled "n". "PG" is connected to a box labeled "Peter is guilty" with a rightward pointing arrow labeled "n".
+
+In the fifth graph, two boxes labeled "B" and "A" are horizontally arranged and connected to each other with two arrows: one pointing right labeled "i1" and one pointing left labeled "i2". "B" is connected to a box labeled "Bird" with a leftward pointing arrow labeled "n". "A" is connected to a box labeled "Animal" with a rightward pointing arrow labeled "n".
+
+In the first graph, two boxes labeled "X" and "Y" are horizontally arranged and connected to each other with a double ended arrow labeled "i 1". "X" is connected to a box labeled "Huge" with a leftward pointing arrow labeled "n". "Y" is connected to a box labeled "Gigantic" with a rightward pointing arrow labeled "n".
 
 ## Relationship Direction
 
 Arrows in VAST stand for IF-THEN relationships between concepts. We will now briefly address the direction into which arrows may point, and how this differs between relationship types. Generally speaking, if there is an arrow pointing from X to Y, there may also be an arrow pointing from Y to X. In most cases, the shape of the respective relationship will differ depending on its direction. If both directions are of interest to the current analysis, we recommend signalling this difference by using two separate arrows, one for each direction. Figure 6 presents a few examples. A few specifics need to be briefly discussed in this regard: First, naming relationships are special in that arrows may only point from a concept to its name but not the other way round. Second, when the strengths of conceptual implications (type i) between X and Y differ depending on direction, this means that one concept (the one that is the target of the arrow with the higher coefficient) is broader and more inclusive than the other. This is highly relevant to all kinds of conceptual hierarchies (taxonomies). Third, VAST does allow for causal (type c) arrows pointing from X to Y and back. This is relevant for displaying all kinds of positive and negative feedback loops. Note that this diverges from recommendations in the literature on Directed Acyclic Graphs (Rohrer, 2018). Fourth, VAST also allows for displays of circular reasoning (type r), because the purpose of VAST is not to prescribe rules as to how one should think, but to make visible the ways in which someone thinks. This includes the possibility of displaying beliefs that others may find unconvincing or even irrational. Fifth, we recommend using a bidirectional arrow with an "i 1" coefficient for expressing the idea that X and Y are identical (see Figure 6). Likewise, a bidirectional arrow with a coefficient of "i -1" would imply that one concept is the exact opposite of the other (e.g., between concept H named "huge" and concept T named "tiny").
 
+**Figure 7:**
+
+The caption says "A simple example with IS- and OUGHT-statements regarding the same concept".
+
+The figure shows a box labeled "INC". To the left it is connected to a pentagon shape labeled "IS" and the connecting line is labeled "2". To the right it is connected to a pentagon shape labeled "OUGHT" and the connecting line is labeled "0". To the bottom it is connected to a box labeled "Expected Increase of average global temperature in the next 50 years, measured in Kelvin" and the conencting line is labeled "N"
+
 ## The IS and OUGHT elements
 
 In many arguments, the extent to which something is considered to be the case and the extent to which something should be the case play important roles. To capture these extents, VAST uses two special elements, called IS and OUGHT. Both denote specific values on a given concept. They are important in a variety of ways: First, disagreements often arise because people start from different premises regarding the extent to which something IS the case (e.g., whether vaccines are safe) or the extent to which something OUGHT to be the case (e.g., whether one should trust the government). Second, discrepancies between IS and OUGHT-values on the same concept often explain why people decide to act in certain ways — often they do so in order to move the IS-value closer to the OUGHT-value. In VAST, IS and OUGHT are symbolized by pentagons which include the respective term (IS or OUGHT) in capitals. These are connected to one or more concepts using simple lines rather than arrows, in order to distinguish them from relationships between concepts. The specific IS- and OUGHT-values are written next to the respective lines. Figure 7 shows a very simple example. IS and OUGHT are not concepts themselves but rather denote specific locations within the range of values that a given concept may have. If IS/OUGHT is used, specifying the metric of measurement may sometimes be helpful (e.g., Figure 7). If it is not possible or useful to specify this metric, we recommend expressing IS and OUGHT values in terms of fractions of the normalized range (between 0 and 1) of the respective concept. If no specific value is given, we recommend using "applies more likely than not" (\> 0.5) as the default interpretation. Note that IS may be interpreted as a measure of the respective concept's central tendency (e.g., the arithmetic mean). It is possible, however, to provide whole ranges of IS- or OUGHT-values, if a single value is deemed insufficient.\
 Going further, it may sometimes be helpful to specify the assumed and/or desired distribution characteristics of a concept even more. In such cases, we recommend providing the respective information in a separate Table on the side, to avoid clutter. An example is shown in Figure 8. The example tells us that, if a person (= object) "has a good day", that person will be more likely to also "be in a good mood", and that this effect is a causal one. The table also tells us that (a) it would be good if the average percentage of people having a good day would increase (from IS: 50 to OUGHT: 70), and if (b) the variation (SD) in the percentage of people being in a good mood would go down (from IS: 25 to OUGHT: 10). The latter goal may be rooted e.g., in the assumption that it is important to avoid extreme unhappiness in people.
+
+**Figure 8:**
+
+The caption says "An example of how assumed and desired concept features may be displayed separately in a table, to avoid clutter"
+
+The figure contains a graph on top and a table on the bottom.
+
+The graph shows two boxes labeled "X" and "Y". "X" is connected to "Y" with a rightward-pointing arrow labeled "c". "X" is also connected by an upward pointing arrow to a box labeled "Having a good day". "Y" is also connected by an upward pointing arrow to a box labeled "Being in a good mood".
+
+The table has title 5 columns: "Concept", "Name", "Unit", "IS", "OUGHT". "IS" and "OUGHT" are further divided into two colums "M" and "SD", making a total of 7 columns. The first entry of the table consists of "X", "Having a good day", "%", "50", "10", "70", "10". The second entry of the table consists of "Y", "Being in a good mood", "%", "65", "25", "65", "10".
+
+**Figure 9:**
+
+The caption says "Different IS and OUGHT values for different perspective-holders"
+
+The figure contains a box at the center labeled "HPW".
+
+To the left it is connected to a pentagon shape labeled "IS" by a straight line labeled "0", and another pentagon labeled "OUGHT" by a straight line labeled "0". Both pentagons are connected to an ellipse labeled "Daniel" by straight lines. The line from "IS" to "Daniel" is labeled "1.0" and the line from "OUTGHT" to "Daniel" is labeled "0.9".
+
+To the left the "HPW" box is connected to a pentagon shape labeled "IS" by a straight line labeled "0", and another pentagon labeled "OUGHT" by a straight line labeled "4". Both pentagons are connected to an ellipse labeled "Daniel" by straight lines, both labeled "0.8".
+
+To the bottom the "HPW" box is connected to a box labeled "„Hours per week that Daniel spends studying Esperanto" by a downward pointing arrow labeled "n".
 
 ## The Perspective Element
 
@@ -70,9 +192,57 @@ Almost by definition, arguments tend to involve disagreements between viewpoints
 
 Each VAST display has to be created by someone. Notably, the persons creating such displays are responsible for arranging the various concepts and their relationships with one another in the most accurate or helpful ways possible, but not for the actual content of the respective argument. In fact, it is possible to display the structure of an argument with great precision while at the same time disagreeing wholeheartedly with most or all of the points that are being made. This is why we prefer to call these persons "analysts" rather than "authors". We recommend naming the analyst who created a display in a header, as also shown in the upper left corner of Figure 9. The persons named as analysts are responsible for the display in its entirety (again: irrespective of how much they agree with the display's actual content). To make this point clear, we decided to include the same persons (Daniel and Marcos) in Figure 9, in two different roles: as analysts, and as perspective-holders. Altogether, the Figure tells us that Daniel and Marcos (analysts) agree that Daniel and Marcos (perspective-holders) have different views on how much time Daniel should spend learning Esperanto (the specifics of their viewpoints were discussed above and will not be repeated here). In other words, they "agree to disagree".
 
+**Figure 10:**
+
+The caption says "Higher-order concepts. Here, IS and OUGHT statements for different perspective-holders refer to two higher-order concepts, each of which contains a number of causal relationships between lower-order concepts"
+
+The figure contains two boxes stacked vertically.
+
+The top box contains three smaller boxes arranged horizontally: "X", connected to "Y1" by a rightward arrow labeled "c", and "Z" which "Y1" connects to with a rightward pointing arrow labeled "c".
+
+The bottom box contains three smaller boxes arranged horizontally: "X", connected to "Y2" by a rightward arrow labeled "c", and "Z" which "Y1" connects to with a rightward pointing arrow labeled "c".
+
+To the left of the two large boxes is a pentagon shape labeled "IS" and above it an ellipse labeled "Toby". The top box connects to the "IS" pentagon on the left with a straight line labeled "1.0", and the bottom box connect to the "IS" pentagon on the left with a straight line labeled "0.0"
+
+To the right of the two large boxes is a pentagon shape labeled "IS" and above it an ellipse labeled "Tina". The top box connects to the "IS" pentagon on the right with a straight line labeled "0.5", and the bottom box connect to the "IS" pentagon on the right with a straight line labeled "0.5"
+
+Above the two large boxes there's another label "Analyst: Peter"
+
 ## Higher Order Concepts
 
 After having introduced all of the different ways in which concepts may be related to one another, as well as the IS, OUGHT, perspective and analyst elements, it is now time to introduce a final element of great importance: In VAST, any combination of elements may itself become a "higher-order concept" (HOC) and thus be related to other (higher-order) concepts or be the subject of IS or OUGHT statements. In this, all of the rules explained so far do apply as well. Figure 10 displays a very simple example. Here, two persons (Toby and Tina) are portrayed (by Peter) as disagreeing in regard to the question of whether the causal effect of X on Z is mediated by Y1, or by Y2. Toby is certain that the former is the case, whereas Tina is undecided. Similar displays may be used to account for all sorts of differences between viewpoints, such as naming conventions (i.e., what it IS that a given label refers to, or what that label OUGHT to be used for). Such issues are as greatly relevant to contemporary psychology as they were decades ago (Block, 1995). It is important to note that a higher-order concept binds all of its components together in an inseparable fashion: The higher-order concept applies (to some object) if and only if all of its lower-order components apply. By using higher-order concepts, VAST users may "zoom in" on certain parts of a display if they wish to elaborate on its details, or "zoom out" when they decide to rather ignore some of the details for some time. Figure 11 provides an example: The lower part of the figure "zooms in" on the meaning of one of the concepts (B) that features in the causal chain displayed in the upper part of the figure. Specifically, we learn that B stands for M1 being the case (IS) and M1 eliciting M2. Furthermore, all of this elicits Y. Higher-order concepts may be used to display a hierarchy of concepts that apply to different sets of objects. So far, we abstained from explicating the sets of objects that the concepts in a VAST analysis apply to. Instead, we tacitly assumed that those objects were the same across all concepts. Sometimes, however, specifying the sets of objects to which different concepts apply is necessary. We recommend using Greek letters for this purpose. Figure 12 displays a hypothetical example. Here, intelligence test scores and school grades were obtained from students (τ). Remember that the thick black edges of the respective concept frames symbolise the fact that these concepts were actually measured. We assume that the students' intelligence test scores do predict their grades to some extent. Note that we use p instead of c relationships in this display, because the two types of data are empirically related (probably because they both reflect the students' actual cognitive abilities), but the students' test results are not the cause of their grades. The figure also tells us that this predictive relationship is assumed to be different for students in School 1 as compared to students in School 2. We learn this from comparing coefficients p1 and p2, and from how the two higher-order concepts (HOC1 and HOC2) are named. At this point, a new set of objects (σ) has to be introduced to distinguish the two schools from one another. We also learn that something else (SEL) named "selectivity" is assumed to vary across the same objects (σ), and that this variation causally explains the difference between p1 and p2.
+
+**Figure 11:**
+
+The caption says 'Using higher-order concepts to “zoom in” on a particular part of a VAST display. The lower part of the display details what concept B is about'
+
+The figure contains to graphs arranged vertically.
+
+The graph on top shows three boxes: "X", "B", and "Y", arrange horizontally. "X" connects to "B" with a rightward pointing arrow labeled "c". "B" connects to "Y" with a rightward pointing arrow labeled "c". "X" also connects to a box below it labeled "Antecedent" with a downward pointing arrow labeled "n". "B" also connects to a box below it labeled "Black Box" with a downward pointing arrow labeled "n". "Y" also connects to a box below it labeled "Consequence" with a downward pointing arrow labeled "n".
+
+The lower graph shows a large box containing two boxes "M1" and "M2" as well as a pentagon shape labeled "IS". "M1" connects to "M2" with a rightward pointing arrow labeled "c". "M1" also connects to "IS" with a straight line labeled "1". To the left of the large box is a box labeled "B" that connects to the large box with a double-headed arrow labeled "i 1". Below the large box are a box labeled "Mediator 1" whish "M1" connects to from inside the large box with a downward pointing arrow labeled "n" and a box labeled "Mediator 2" which "M2" connects to from inside the large box with a downward pointing arrow labeled "n".
+
+The whole figure is also labeled "Analyst : Imani" at the top.
+
+**Figure 12:**
+
+The caption says "Use of concepts (INT, GRA, SEL) and higher-order concepts (HOC1, HOC2) that are applied to different sets of objects (τ vs. σ)"
+
+The figure contains 6 graphs arranged vertically.
+
+The first graph from the top shows a box labeled "SEL(σ)". Below it are two larger boxes arranged horizontally. "SEL(σ)" connects to each of the two with a down-diagonal arrow labeled "c". The left of the larger boxes is labeled "HOC1(σ)" in the top right corner. It contains a box with a thicker left edge labeled "INT(τ)" that connects with a downward pointing arrow labeled "p1 0.5" to another box with a thicker left edge labeled "GRA(τ)". The right of the larger boxes is labeled "HOC2(σ)" in the top right corner. It contains a box with a thicker left edge labeled "INT(τ)" that connects with a downward pointing arrow labeled "p1 0.2" to another box with a thicker left edge labeled "GRA(τ)".
+
+The second graph shows a box with a thicker left edge labeled "INT(τ)". It connects through a rightward pointing arrow labeled "n1" to a box labeled "Students‘ Intelligence-Test Results".
+
+The third graph shows a box with a thicker left edge labeled "GRA(τ)". It connects through a rightward pointing arrow labeled "n2" to a box labeled "Students‘ Grades".
+
+The fourth graph shows a box labeled "SEL(σ)". It connects through a rightward pointing arrow labeled "n3" to a box labeled "Selectiveness of School".
+
+The fifth graph shows a box labeled "HOC1(σ)". It connects through a rightward pointing arrow labeled "n4" to a box labeled "Effect in School 1".
+
+The sixth graph shows a box labeled "HOC2(σ)". It connects through a rightward pointing arrow labeled "n5" to a box labeled "Effect in School 2".
+
+The whole figure is also labeled "Analyst: Pam" at the top.
 
 # Discussion
 
