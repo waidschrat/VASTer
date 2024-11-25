@@ -82,7 +82,7 @@ In the present paper, we only address those types of relationships between conce
 
 The caption says "Relationship strengths and relationship patterns".
 
-The figure contains a numbered list of 10 individual grpahs arranged in two columns.
+The figure contains a numbered list of 10 individual graphs arranged in two columns.
 
 Graph 1 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c "weak"' to a box labeled "Y".
 
@@ -131,7 +131,7 @@ Sometimes, we may not only wish to display the relationship between specific con
 
 **Figure 6:**
 
-The caption says "Relationship arrows connecting concepts both ways. Use of two arrows implies that the exact ways in which the concepts are related depend on direction. Use of a bidirectional arrow (as in the last case) implies that direction does not matter. The i 1 coefficient in the latter case reflects the assumption that concepts X and Y are identical"
+The caption says "Relationship arrows connecting concepts both ways. Use of two arrows implies that the exact ways in which the concepts are related depend on direction. Use of a bidirectional arrow (as in the last case) implies that direction does not matter. The 'i 1' coefficient in the latter case reflects the assumption that concepts X and Y are identical"
 
 The figure shows 6 graphs stacked vertically.
 
@@ -145,7 +145,7 @@ In the fourth graph, two boxes labeled "PNA" and "PG" are horizontally arranged 
 
 In the fifth graph, two boxes labeled "B" and "A" are horizontally arranged and connected to each other with two arrows: one pointing right labeled "i1" and one pointing left labeled "i2". "B" is connected to a box labeled "Bird" with a leftward pointing arrow labeled "n". "A" is connected to a box labeled "Animal" with a rightward pointing arrow labeled "n".
 
-In the first graph, two boxes labeled "X" and "Y" are horizontally arranged and connected to each other with a double ended arrow labeled "i 1". "X" is connected to a box labeled "Huge" with a leftward pointing arrow labeled "n". "Y" is connected to a box labeled "Gigantic" with a rightward pointing arrow labeled "n".
+In the sixth graph, two boxes labeled "X" and "Y" are horizontally arranged and connected to each other with a double ended arrow labeled "i 1". "X" is connected to a box labeled "Huge" with a leftward pointing arrow labeled "n". "Y" is connected to a box labeled "Gigantic" with a rightward pointing arrow labeled "n".
 
 ## Relationship Direction
 
